@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>greenify</title>
+    <link rel="stylesheet" href="gfstyle.css">
+</head>
+<header>
+<body>
+    <div class="bimg"></div>
+    
+    <img src="logo_greenify.png" alt="">
+</header>
+
+<div class="spe">
+  
+    <div class="links">
+        <a href="greenify.html"><img src="gflogo.png" alt="" class="log"></a>
+        <a href="greenify.html">Home</a>
+            <a href="posts.html">Posts</a>
+            <a href="shoppinggf.html">Shopping</a>
+            <a href="#">Services</a>
+            <a href="campaign.html">Campaigns</a>
+            <a href="#">Contribution</a>
+            <a href="#">Rewards</a>
+            <a href="#">Other</a>
+            <a href="login_g.html">Login/Signup</a>
+    </div>
+    
+</div>
+<div class="hot">
+<div>
+   
+
+    <nav class="two">
+        <a href="posts.html">Posts</a>
+        <a href="shoppinggf.html">Shopping</a>
+        <a href="#">Services</a>
+        <a href="campaign.html">Campaigns</a>
+        <a href="#">Contribution</a>
+        <a href="#">Rewards</a>
+    </nav>
+     
+</div>
+ <div class="about"> 
+      <pre><i><h1> <b>We Greenify welcomes you</b> </h1>
+        <img src="garden plants.jpeg" alt="" class="float">
+<h2> Why we exist?</h2>
+ <p > We "Greenify" want to make the world more beautiful with the  
+ help of plants and trees. the real beauty lies in  nature
+ and we greenify the nature.
+               <h3><b>Post section </b></h3>
+ We welcomes you to enjoy our posts section and also posts photos of your plants 
+ and garden and also join the community of greenify . 
+                <h3><b>Campaigns</b></h3>
+ We do campaingning twice in a month one based on concept of "Swachh Bharat Abhiyan" 
+ and one on plantation . we provide you various plantation facilities in our 
+ campaigns.
+    <div class="ofimg">
+    <img src="camp.jpeg" alt="" class="cpmimg">
+    <img src="campaign.jpg" alt="">
+    <img src="plant collection.jpeg" alt="">
+    </div>
+               <h3><b>Rewards</b></h3>
+ We provide a certificate of exellence and contribution to society based on the likes
+ and comments on your post and provide a special section in our website as post of week
+     <h3><b>Services on Subscription</b></h3>
+ We provide you various types of Subscription based on sevices 
+ <ul>
+<li>Designing of your garden</li>
+<li> Designing your  various sections of your house and office like lawn ,balcony and many more </li>
+<li>Maintaince of your garden</li>
+</ul> 
+ and many more ,so whom are you waiting for you book a proper expert for your garden.
+ <div class="ofimg">
+ <img src="off des" alt="">
+ <img src="office design.jpeg" alt="">
+ <img src="offic design.jpeg" alt="">
+ </div>
+    <h3><b>Shopping</b></h3>
+ In the shopping section you can buy and select as per your intrest  in genuine prices and
+ you get free delivery of your order .The best platform to buy a plants for your home.
+   <h3><b>Contribution for campaigns </b></h3>
+ If you like our concept you can also contribute in our Campaigning programs in any way you 
+ can and as per your choice of getting mentioned or not we will upload your contribution in 
+ our contribution section.
+
+
+
+     Share this page:)
+
+             </p></i></pre>
+ </div>
+</div>
+        <footer class="spec1">
+            <a href="#">Copyright</a>
+            <a href="#">Terms&Condition</a>
+            <a href="#">FAQ</a>
+            <a href="#">Contact_Us</a>
+            <img src="iglogo.avif" alt="">
+        </footer>
+
+</body>
+</html>
